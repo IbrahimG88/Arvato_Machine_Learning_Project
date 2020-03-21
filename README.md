@@ -1,5 +1,4 @@
-### This project is my Capstone project I worked on for the Udacity 
-Machine Learning Engineer Nanodegree
+### This project is my Capstone project I worked on for the Udacity Machine Learning Engineer Nanodegree
 
 The dataset is provided by Arvato financial solutions, a german company.
 The project is divided into two sections. 
